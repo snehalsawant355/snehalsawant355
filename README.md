@@ -13,7 +13,7 @@ Feel free to browse through my work, and let’s connect over yoga!
 
 ### Featured Projects:
 1. [Yoga Blog Articles](https://mefree.com/blogs/)
-2. [Yoga Mats on MeFree](https://mefree.com/product-category/mats/)
+2. [Yoga Mats](https://mefree.com/product-category/mats/)
 3. [Yoga Prop Insights](https://mefree.com/product-category/yoga-props/)
 
 ---
